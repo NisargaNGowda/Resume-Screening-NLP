@@ -31,3 +31,13 @@ This project uses Natural Language Processing (NLP) and Machine Learning to clas
 
 ## Categories
 HR, Finance, Banking, Engineering, IT, Healthcare, Teacher, Business Development and more.
+## Dataset
+
+This project uses the Resume Dataset from Kaggle.
+
+Download Dataset:
+https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
+
+After downloading, place the CSV file in the project directory and rename it to:
+
+resume_dataset.csv
