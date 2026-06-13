@@ -1,0 +1,9 @@
+Python
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+Pandas
+NumPy
+Data Analysis
+SQL
